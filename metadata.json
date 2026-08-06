@@ -1,0 +1,6 @@
+{
+  "name": "PBR Material Suite Generator",
+  "description": "Generate seamless tileable PBR materials (Albedo, Normal, Roughness, Metallic, Height, AO, ORM) with Gemini AI synthesis, mathematical map derivation, and interactive 3D WebGL viewport.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
